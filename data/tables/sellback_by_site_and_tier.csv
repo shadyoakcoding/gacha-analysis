@@ -1,0 +1,6 @@
+site_and_tier,pulls_read,population,sold_back_pct,margin_pts,median_s,p75_s,within_1min_pct,within_1h_pct,within_24h_pct,median_payout_pct
+"Courtyard, $500+",28009,28009,80.7812,,49.5004,255.0019,54.0131,86.7674,94.0113,84.6001
+"Collector Crypt, $500+",1000,68891,95.9,3.0765,9,23,89.2744,98.8433,100,93
+"Collector Crypt, $300 to $499",400,17368,94.5,4.8434,18,35.5,81.746,95.7672,98.4127,90
+"Phygitals, $500+",6927,6927,93.1428,,20,51,76.9219,95.7378,98.9461,90
+"Phygitals, $100 to $499",400,27758,95.5,4.8647,17,30.75,86.911,97.9058,99.2147,90

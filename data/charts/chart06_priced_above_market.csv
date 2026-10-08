@@ -1,0 +1,4 @@
+site,pulls_with_cardladder_value,above_cardladder_pct,pulls_with_prior_sale,above_both_pulls,above_both_pct,median_prior30_sales,above_both_fallback_share_pct,base_pulls_with_1plus_prior30_sale,above_both_pct_with_1plus_prior30_sale
+Collector Crypt,81074,66.2086,80884,18270,22.5879,12,6.1357,75781,22.6297
+Phygitals,11482,55.8091,11466,3353,29.243,3,40.0239,9102,22.094
+Courtyard,29663,61.0592,29603,4079,13.779,9,12.0863,28068,12.7761

@@ -1,0 +1,12 @@
+*.js
+*.json
+*.csv
+!data/**/*.csv
+*.html
+*.db
+*.sqlite
+.env*
+node_modules/
+build/
+scratch/
+*.log

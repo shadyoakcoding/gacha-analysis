@@ -1,0 +1,1567 @@
+site,seconds,pct_sold_back_within
+Collector Crypt,1,0
+Collector Crypt,1,12.934
+Collector Crypt,1.03,12.934
+Collector Crypt,1.06,12.934
+Collector Crypt,1.09,12.934
+Collector Crypt,1.12,12.934
+Collector Crypt,1.15,12.934
+Collector Crypt,1.19,12.934
+Collector Crypt,1.22,12.934
+Collector Crypt,1.26,12.934
+Collector Crypt,1.29,12.934
+Collector Crypt,1.33,12.934
+Collector Crypt,1.37,12.934
+Collector Crypt,1.41,12.934
+Collector Crypt,1.45,12.934
+Collector Crypt,1.49,12.934
+Collector Crypt,1.53,12.934
+Collector Crypt,1.58,12.934
+Collector Crypt,1.62,12.934
+Collector Crypt,1.67,12.934
+Collector Crypt,1.72,12.934
+Collector Crypt,1.76,12.934
+Collector Crypt,1.82,12.934
+Collector Crypt,1.87,12.934
+Collector Crypt,1.92,12.934
+Collector Crypt,1.98,12.934
+Collector Crypt,2.03,32.913
+Collector Crypt,2.09,32.913
+Collector Crypt,2.15,32.913
+Collector Crypt,2.21,32.913
+Collector Crypt,2.28,32.913
+Collector Crypt,2.34,32.913
+Collector Crypt,2.41,32.913
+Collector Crypt,2.48,32.913
+Collector Crypt,2.55,32.913
+Collector Crypt,2.63,32.913
+Collector Crypt,2.7,32.913
+Collector Crypt,2.78,32.913
+Collector Crypt,2.86,32.913
+Collector Crypt,2.94,32.913
+Collector Crypt,3.03,37.75
+Collector Crypt,3.11,37.75
+Collector Crypt,3.2,37.75
+Collector Crypt,3.3,37.75
+Collector Crypt,3.39,37.75
+Collector Crypt,3.49,37.75
+Collector Crypt,3.59,37.75
+Collector Crypt,3.69,37.75
+Collector Crypt,3.8,37.75
+Collector Crypt,3.91,37.75
+Collector Crypt,4.02,39.012
+Collector Crypt,4.14,39.012
+Collector Crypt,4.26,39.012
+Collector Crypt,4.38,39.012
+Collector Crypt,4.51,39.012
+Collector Crypt,4.63,39.012
+Collector Crypt,4.77,39.012
+Collector Crypt,4.91,39.012
+Collector Crypt,5.05,40.589
+Collector Crypt,5.19,40.589
+Collector Crypt,5.34,40.589
+Collector Crypt,5.5,40.589
+Collector Crypt,5.65,40.589
+Collector Crypt,5.82,40.589
+Collector Crypt,5.98,40.589
+Collector Crypt,6.16,42.061
+Collector Crypt,6.33,42.061
+Collector Crypt,6.52,42.061
+Collector Crypt,6.7,42.061
+Collector Crypt,6.9,42.061
+Collector Crypt,7.1,45.426
+Collector Crypt,7.3,45.426
+Collector Crypt,7.51,45.426
+Collector Crypt,7.73,45.426
+Collector Crypt,7.95,45.426
+Collector Crypt,8.18,48.896
+Collector Crypt,8.41,48.896
+Collector Crypt,8.66,48.896
+Collector Crypt,8.91,48.896
+Collector Crypt,9.16,51.63
+Collector Crypt,9.43,51.63
+Collector Crypt,9.7,51.63
+Collector Crypt,9.98,51.63
+Collector Crypt,10.27,53.943
+Collector Crypt,10.56,53.943
+Collector Crypt,10.87,53.943
+Collector Crypt,11.18,55.205
+Collector Crypt,11.5,55.205
+Collector Crypt,11.83,55.205
+Collector Crypt,12.17,56.572
+Collector Crypt,12.52,56.572
+Collector Crypt,12.88,56.572
+Collector Crypt,13.26,57.203
+Collector Crypt,13.64,57.203
+Collector Crypt,14.03,58.57
+Collector Crypt,14.43,58.57
+Collector Crypt,14.85,58.57
+Collector Crypt,15.28,60.568
+Collector Crypt,15.72,60.568
+Collector Crypt,16.17,63.512
+Collector Crypt,16.64,63.512
+Collector Crypt,17.12,66.562
+Collector Crypt,17.61,66.562
+Collector Crypt,18.12,69.295
+Collector Crypt,18.64,69.295
+Collector Crypt,19.17,70.978
+Collector Crypt,19.73,70.978
+Collector Crypt,20.3,72.24
+Collector Crypt,20.88,72.24
+Collector Crypt,21.48,73.291
+Collector Crypt,22.1,74.448
+Collector Crypt,22.74,74.448
+Collector Crypt,23.39,76.551
+Collector Crypt,24.07,77.603
+Collector Crypt,24.76,77.603
+Collector Crypt,25.47,79.075
+Collector Crypt,26.21,79.495
+Collector Crypt,26.96,79.495
+Collector Crypt,27.74,80.442
+Collector Crypt,28.54,81.178
+Collector Crypt,29.36,81.493
+Collector Crypt,30.2,82.229
+Collector Crypt,31.07,82.65
+Collector Crypt,31.97,82.65
+Collector Crypt,32.89,83.281
+Collector Crypt,33.84,83.491
+Collector Crypt,34.81,83.912
+Collector Crypt,35.82,84.017
+Collector Crypt,36.85,84.227
+Collector Crypt,37.91,84.543
+Collector Crypt,39,84.753
+Collector Crypt,40.12,84.753
+Collector Crypt,41.28,85.279
+Collector Crypt,42.47,85.489
+Collector Crypt,43.69,85.489
+Collector Crypt,44.95,85.699
+Collector Crypt,46.25,86.33
+Collector Crypt,47.58,86.646
+Collector Crypt,48.95,86.961
+Collector Crypt,50.36,87.171
+Collector Crypt,51.81,87.277
+Collector Crypt,53.3,87.802
+Collector Crypt,54.84,88.328
+Collector Crypt,56.42,88.644
+Collector Crypt,58.04,89.169
+Collector Crypt,59.72,89.274
+Collector Crypt,61.44,89.59
+Collector Crypt,63.2,89.905
+Collector Crypt,65.03,90.116
+Collector Crypt,66.9,90.221
+Collector Crypt,68.83,90.431
+Collector Crypt,70.81,90.536
+Collector Crypt,72.85,90.536
+Collector Crypt,74.95,90.747
+Collector Crypt,77.11,90.957
+Collector Crypt,79.33,91.062
+Collector Crypt,81.61,91.272
+Collector Crypt,83.96,91.588
+Collector Crypt,86.38,91.903
+Collector Crypt,88.87,92.114
+Collector Crypt,91.43,92.219
+Collector Crypt,94.06,92.639
+Collector Crypt,96.77,92.85
+Collector Crypt,99.56,93.06
+Collector Crypt,102.43,93.375
+Collector Crypt,105.38,93.481
+Collector Crypt,108.42,93.586
+Collector Crypt,111.54,93.901
+Collector Crypt,114.75,94.006
+Collector Crypt,118.06,94.006
+Collector Crypt,121.46,94.111
+Collector Crypt,124.96,94.217
+Collector Crypt,128.56,94.427
+Collector Crypt,132.26,94.427
+Collector Crypt,136.07,94.637
+Collector Crypt,139.99,94.637
+Collector Crypt,144.02,94.742
+Collector Crypt,148.17,94.742
+Collector Crypt,152.44,94.848
+Collector Crypt,156.83,94.848
+Collector Crypt,161.35,94.848
+Collector Crypt,166,94.953
+Collector Crypt,170.78,95.163
+Collector Crypt,175.7,95.268
+Collector Crypt,180.76,95.268
+Collector Crypt,185.97,95.268
+Collector Crypt,191.33,95.268
+Collector Crypt,196.84,95.268
+Collector Crypt,202.51,95.268
+Collector Crypt,208.34,95.373
+Collector Crypt,214.34,95.478
+Collector Crypt,220.52,95.478
+Collector Crypt,226.87,95.478
+Collector Crypt,233.41,95.478
+Collector Crypt,240.13,95.584
+Collector Crypt,247.05,95.794
+Collector Crypt,254.16,95.794
+Collector Crypt,261.49,95.899
+Collector Crypt,269.02,96.004
+Collector Crypt,276.77,96.215
+Collector Crypt,284.74,96.215
+Collector Crypt,292.94,96.425
+Collector Crypt,301.38,96.53
+Collector Crypt,310.06,96.53
+Collector Crypt,319,96.53
+Collector Crypt,328.18,96.53
+Collector Crypt,337.64,96.635
+Collector Crypt,347.37,96.74
+Collector Crypt,357.37,96.845
+Collector Crypt,367.67,96.845
+Collector Crypt,378.26,96.951
+Collector Crypt,389.15,97.056
+Collector Crypt,400.36,97.056
+Collector Crypt,411.9,97.161
+Collector Crypt,423.76,97.161
+Collector Crypt,435.97,97.161
+Collector Crypt,448.53,97.161
+Collector Crypt,461.45,97.161
+Collector Crypt,474.74,97.161
+Collector Crypt,488.42,97.161
+Collector Crypt,502.49,97.161
+Collector Crypt,516.96,97.161
+Collector Crypt,531.86,97.161
+Collector Crypt,547.18,97.161
+Collector Crypt,562.94,97.161
+Collector Crypt,579.16,97.161
+Collector Crypt,595.84,97.266
+Collector Crypt,613.01,97.371
+Collector Crypt,630.66,97.371
+Collector Crypt,648.83,97.371
+Collector Crypt,667.52,97.371
+Collector Crypt,686.75,97.581
+Collector Crypt,706.54,97.581
+Collector Crypt,726.89,97.581
+Collector Crypt,747.83,97.581
+Collector Crypt,769.37,97.687
+Collector Crypt,791.53,97.687
+Collector Crypt,814.34,97.687
+Collector Crypt,837.79,97.792
+Collector Crypt,861.93,97.792
+Collector Crypt,886.76,97.897
+Collector Crypt,912.3,98.107
+Collector Crypt,938.58,98.212
+Collector Crypt,965.62,98.212
+Collector Crypt,993.44,98.318
+Collector Crypt,1022.06,98.318
+Collector Crypt,1051.5,98.318
+Collector Crypt,1081.79,98.318
+Collector Crypt,1112.95,98.318
+Collector Crypt,1145.01,98.318
+Collector Crypt,1178,98.318
+Collector Crypt,1211.93,98.318
+Collector Crypt,1246.84,98.318
+Collector Crypt,1282.76,98.423
+Collector Crypt,1319.71,98.423
+Collector Crypt,1357.73,98.423
+Collector Crypt,1396.84,98.423
+Collector Crypt,1437.08,98.423
+Collector Crypt,1478.48,98.423
+Collector Crypt,1521.07,98.528
+Collector Crypt,1564.89,98.528
+Collector Crypt,1609.97,98.528
+Collector Crypt,1656.35,98.528
+Collector Crypt,1704.06,98.528
+Collector Crypt,1753.15,98.528
+Collector Crypt,1803.65,98.528
+Collector Crypt,1855.61,98.528
+Collector Crypt,1909.07,98.528
+Collector Crypt,1964.06,98.633
+Collector Crypt,2020.64,98.633
+Collector Crypt,2078.85,98.633
+Collector Crypt,2138.73,98.633
+Collector Crypt,2200.34,98.633
+Collector Crypt,2263.73,98.633
+Collector Crypt,2328.94,98.633
+Collector Crypt,2396.03,98.633
+Collector Crypt,2465.05,98.633
+Collector Crypt,2536.06,98.633
+Collector Crypt,2609.12,98.633
+Collector Crypt,2684.28,98.738
+Collector Crypt,2761.61,98.738
+Collector Crypt,2841.16,98.738
+Collector Crypt,2923.01,98.738
+Collector Crypt,3007.21,98.738
+Collector Crypt,3093.84,98.843
+Collector Crypt,3182.96,98.843
+Collector Crypt,3274.65,98.843
+Collector Crypt,3368.99,98.843
+Collector Crypt,3466.04,98.843
+Collector Crypt,3565.88,98.843
+Collector Crypt,3668.61,98.843
+Collector Crypt,3774.29,98.843
+Collector Crypt,3883.01,98.843
+Collector Crypt,3994.87,98.843
+Collector Crypt,4109.95,98.843
+Collector Crypt,4228.35,98.843
+Collector Crypt,4350.15,98.843
+Collector Crypt,4475.47,98.843
+Collector Crypt,4604.39,98.843
+Collector Crypt,4737.03,98.843
+Collector Crypt,4873.49,98.843
+Collector Crypt,5013.88,98.843
+Collector Crypt,5158.32,98.843
+Collector Crypt,5306.91,98.843
+Collector Crypt,5459.79,98.843
+Collector Crypt,5617.07,98.843
+Collector Crypt,5778.88,98.843
+Collector Crypt,5945.35,98.843
+Collector Crypt,6116.62,98.843
+Collector Crypt,6292.82,99.054
+Collector Crypt,6474.1,99.054
+Collector Crypt,6660.6,99.054
+Collector Crypt,6852.47,99.054
+Collector Crypt,7049.87,99.054
+Collector Crypt,7252.95,99.054
+Collector Crypt,7461.89,99.054
+Collector Crypt,7676.84,99.054
+Collector Crypt,7897.99,99.159
+Collector Crypt,8125.51,99.264
+Collector Crypt,8359.58,99.264
+Collector Crypt,8600.39,99.264
+Collector Crypt,8848.15,99.264
+Collector Crypt,9103.04,99.264
+Collector Crypt,9365.27,99.264
+Collector Crypt,9635.05,99.264
+Collector Crypt,9912.61,99.264
+Collector Crypt,10198.16,99.264
+Collector Crypt,10491.94,99.369
+Collector Crypt,10794.18,99.369
+Collector Crypt,11105.13,99.369
+Collector Crypt,11425.03,99.369
+Collector Crypt,11754.16,99.369
+Collector Crypt,12092.76,99.369
+Collector Crypt,12441.11,99.369
+Collector Crypt,12799.51,99.369
+Collector Crypt,13168.22,99.369
+Collector Crypt,13547.56,99.369
+Collector Crypt,13937.82,99.369
+Collector Crypt,14339.33,99.369
+Collector Crypt,14752.4,99.369
+Collector Crypt,15177.37,99.369
+Collector Crypt,15614.59,99.369
+Collector Crypt,16064.4,99.369
+Collector Crypt,16527.17,99.369
+Collector Crypt,17003.26,99.369
+Collector Crypt,17493.08,99.474
+Collector Crypt,17997,99.474
+Collector Crypt,18515.44,99.474
+Collector Crypt,19048.82,99.579
+Collector Crypt,19597.55,99.579
+Collector Crypt,20162.1,99.579
+Collector Crypt,20742.91,99.579
+Collector Crypt,21340.45,99.579
+Collector Crypt,21955.21,99.579
+Collector Crypt,22587.67,99.579
+Collector Crypt,23238.35,99.685
+Collector Crypt,23907.78,99.685
+Collector Crypt,24596.49,99.685
+Collector Crypt,25305.04,99.685
+Collector Crypt,26034.01,99.685
+Collector Crypt,26783.97,99.685
+Collector Crypt,27555.53,99.685
+Collector Crypt,28349.33,99.685
+Collector Crypt,29165.99,99.685
+Collector Crypt,30006.17,99.685
+Collector Crypt,30870.56,99.685
+Collector Crypt,31759.85,99.685
+Collector Crypt,32674.75,99.685
+Collector Crypt,33616.02,99.685
+Collector Crypt,34584.39,99.685
+Collector Crypt,35580.67,99.685
+Collector Crypt,36605.64,99.685
+Collector Crypt,37660.14,99.685
+Collector Crypt,38745.01,99.685
+Collector Crypt,39861.14,99.685
+Collector Crypt,41009.42,99.685
+Collector Crypt,42190.78,99.685
+Collector Crypt,43406.17,99.685
+Collector Crypt,44656.57,99.79
+Collector Crypt,45942.99,99.79
+Collector Crypt,47266.47,99.79
+Collector Crypt,48628.08,99.79
+Collector Crypt,50028.91,99.79
+Collector Crypt,51470.09,99.79
+Collector Crypt,52952.79,99.79
+Collector Crypt,54478.2,99.79
+Collector Crypt,56047.56,99.895
+Collector Crypt,57662.12,99.895
+Collector Crypt,59323.19,99.895
+Collector Crypt,61032.12,99.895
+Collector Crypt,62790.27,99.895
+Collector Crypt,64599.07,99.895
+Collector Crypt,66459.97,99.895
+Collector Crypt,68374.49,99.895
+Collector Crypt,70344.15,99.895
+Collector Crypt,72370.55,99.895
+Collector Crypt,74455.33,99.895
+Collector Crypt,76600.17,100
+Collector Crypt,78806.79,100
+Collector Crypt,81076.98,100
+Collector Crypt,83412.56,100
+Collector Crypt,85815.43,100
+Collector Crypt,88287.52,100
+Collector Crypt,90830.81,100
+Collector Crypt,93447.38,100
+Collector Crypt,96139.32,100
+Collector Crypt,98908.8,100
+Collector Crypt,101758.07,100
+Collector Crypt,104689.42,100
+Collector Crypt,107705.2,100
+Collector Crypt,110807.87,100
+Collector Crypt,113999.91,100
+Collector Crypt,117283.91,100
+Collector Crypt,120662.51,100
+Collector Crypt,124138.43,100
+Collector Crypt,127714.49,100
+Collector Crypt,131393.56,100
+Collector Crypt,135178.62,100
+Collector Crypt,139072.71,100
+Collector Crypt,143078.98,100
+Collector Crypt,147200.65,100
+Collector Crypt,151441.06,100
+Collector Crypt,155803.63,100
+Collector Crypt,160291.86,100
+Collector Crypt,164909.39,100
+Collector Crypt,169659.94,100
+Collector Crypt,174547.33,100
+Collector Crypt,179575.52,100
+Collector Crypt,184748.55,100
+Collector Crypt,190070.61,100
+Collector Crypt,195545.97,100
+Collector Crypt,201179.07,100
+Collector Crypt,206974.43,100
+Collector Crypt,212936.75,100
+Collector Crypt,219070.82,100
+Collector Crypt,225381.59,100
+Collector Crypt,231874.16,100
+Collector Crypt,238553.76,100
+Collector Crypt,245425.78,100
+Collector Crypt,252495.76,100
+Collector Crypt,259769.41,100
+Collector Crypt,267252.59,100
+Collector Crypt,274951.34,100
+Collector Crypt,282871.86,100
+Collector Crypt,291020.55,100
+Collector Crypt,299403.98,100
+Collector Crypt,308028.92,100
+Collector Crypt,316902.31,100
+Collector Crypt,326031.31,100
+Collector Crypt,335423.3,100
+Collector Crypt,345085.84,100
+Collector Crypt,355026.73,100
+Collector Crypt,365253.99,100
+Collector Crypt,375775.86,100
+Collector Crypt,386600.84,100
+Collector Crypt,397737.66,100
+Collector Crypt,409195.29,100
+Collector Crypt,420982.98,100
+Collector Crypt,433110.24,100
+Collector Crypt,445586.85,100
+Collector Crypt,458422.87,100
+Collector Crypt,471628.66,100
+Collector Crypt,485214.87,100
+Collector Crypt,499192.46,100
+Collector Crypt,513572.7,100
+Collector Crypt,528367.19,100
+Collector Crypt,543587.87,100
+Collector Crypt,559247.01,100
+Collector Crypt,575357.24,100
+Collector Crypt,591931.56,100
+Collector Crypt,608983.34,100
+Collector Crypt,626526.33,100
+Collector Crypt,644574.67,100
+Collector Crypt,663142.94,100
+Collector Crypt,682246.1,100
+Collector Crypt,701899.57,100
+Collector Crypt,722119.2,100
+Collector Crypt,742921.29,100
+Collector Crypt,764322.63,100
+Collector Crypt,786340.48,100
+Collector Crypt,808992.59,100
+Collector Crypt,832297.25,100
+Collector Crypt,856273.24,100
+Collector Crypt,880939.91,100
+Collector Crypt,906317.15,100
+Collector Crypt,932425.44,100
+Collector Crypt,959285.82,100
+Collector Crypt,986919.98,100
+Collector Crypt,1015350.19,100
+Collector Crypt,1044599.39,100
+Collector Crypt,1074691.17,100
+Collector Crypt,1105649.8,100
+Collector Crypt,1137500.27,100
+Collector Crypt,1170268.24,100
+Collector Crypt,1203980.17,100
+Collector Crypt,1238663.23,100
+Collector Crypt,1274345.42,100
+Collector Crypt,1311055.49,100
+Collector Crypt,1348823.08,100
+Collector Crypt,1387678.63,100
+Collector Crypt,1427653.5,100
+Collector Crypt,1468779.93,100
+Collector Crypt,1511091.08,100
+Collector Crypt,1554621.09,100
+Collector Crypt,1599405.07,100
+Collector Crypt,1645479.14,100
+Collector Crypt,1692880.47,100
+Collector Crypt,1741647.29,100
+Collector Crypt,1791818.94,100
+Collector Crypt,1843435.88,100
+Collector Crypt,1896539.75,100
+Collector Crypt,1951173.38,100
+Collector Crypt,2007380.85,100
+Collector Crypt,2065207.48,100
+Collector Crypt,2124699.93,100
+Collector Crypt,2185906.17,100
+Collector Crypt,2248875.59,100
+Collector Crypt,2313658.96,100
+Collector Crypt,2380308.55,100
+Collector Crypt,2448878.12,100
+Collector Crypt,2519422.97,100
+Collector Crypt,2592000,100
+Phygitals,1,0
+Phygitals,1,0
+Phygitals,1.03,0
+Phygitals,1.06,0
+Phygitals,1.09,0
+Phygitals,1.12,0
+Phygitals,1.15,0
+Phygitals,1.19,0
+Phygitals,1.22,0
+Phygitals,1.26,0
+Phygitals,1.29,0
+Phygitals,1.33,0
+Phygitals,1.37,0
+Phygitals,1.41,0
+Phygitals,1.45,0
+Phygitals,1.49,0
+Phygitals,1.53,0
+Phygitals,1.58,0
+Phygitals,1.62,0
+Phygitals,1.67,0
+Phygitals,1.72,0
+Phygitals,1.76,0
+Phygitals,1.82,0
+Phygitals,1.87,0
+Phygitals,1.92,0
+Phygitals,1.98,0
+Phygitals,2.03,0
+Phygitals,2.09,0
+Phygitals,2.15,0
+Phygitals,2.21,0
+Phygitals,2.28,0
+Phygitals,2.34,0
+Phygitals,2.41,0
+Phygitals,2.48,0
+Phygitals,2.55,0
+Phygitals,2.63,0
+Phygitals,2.7,0
+Phygitals,2.78,0
+Phygitals,2.86,0
+Phygitals,2.94,0
+Phygitals,3.03,0.015
+Phygitals,3.11,0.015
+Phygitals,3.2,0.015
+Phygitals,3.3,0.015
+Phygitals,3.39,0.015
+Phygitals,3.49,0.015
+Phygitals,3.59,0.015
+Phygitals,3.69,0.015
+Phygitals,3.8,0.015
+Phygitals,3.91,0.015
+Phygitals,4.02,0.341
+Phygitals,4.14,0.341
+Phygitals,4.26,0.341
+Phygitals,4.38,0.341
+Phygitals,4.51,0.341
+Phygitals,4.63,0.341
+Phygitals,4.77,0.341
+Phygitals,4.91,0.341
+Phygitals,5.05,1.364
+Phygitals,5.19,1.364
+Phygitals,5.34,1.364
+Phygitals,5.5,1.364
+Phygitals,5.65,1.364
+Phygitals,5.82,1.364
+Phygitals,5.98,1.364
+Phygitals,6.16,2.976
+Phygitals,6.33,2.976
+Phygitals,6.52,2.976
+Phygitals,6.7,2.976
+Phygitals,6.9,2.976
+Phygitals,7.1,5.347
+Phygitals,7.3,5.347
+Phygitals,7.51,5.347
+Phygitals,7.73,5.347
+Phygitals,7.95,5.347
+Phygitals,8.18,8.246
+Phygitals,8.41,8.246
+Phygitals,8.66,8.246
+Phygitals,8.91,8.246
+Phygitals,9.16,12.508
+Phygitals,9.43,12.508
+Phygitals,9.7,12.508
+Phygitals,9.98,12.508
+Phygitals,10.27,17.514
+Phygitals,10.56,17.514
+Phygitals,10.87,17.514
+Phygitals,11.18,22.412
+Phygitals,11.5,22.412
+Phygitals,11.83,22.412
+Phygitals,12.17,27.061
+Phygitals,12.52,27.061
+Phygitals,12.88,27.061
+Phygitals,13.26,30.487
+Phygitals,13.64,30.487
+Phygitals,14.03,33.819
+Phygitals,14.43,33.819
+Phygitals,14.85,33.819
+Phygitals,15.28,37.074
+Phygitals,15.72,37.074
+Phygitals,16.17,40.685
+Phygitals,16.64,40.685
+Phygitals,17.12,43.816
+Phygitals,17.61,43.816
+Phygitals,18.12,46.404
+Phygitals,18.64,46.404
+Phygitals,19.17,48.714
+Phygitals,19.73,48.714
+Phygitals,20.3,50.976
+Phygitals,20.88,50.976
+Phygitals,21.48,53.224
+Phygitals,22.1,54.96
+Phygitals,22.74,54.96
+Phygitals,23.39,56.696
+Phygitals,24.07,58.261
+Phygitals,24.76,58.261
+Phygitals,25.47,59.501
+Phygitals,26.21,60.663
+Phygitals,26.96,60.663
+Phygitals,27.74,62.012
+Phygitals,28.54,63.174
+Phygitals,29.36,63.934
+Phygitals,30.2,64.755
+Phygitals,31.07,65.701
+Phygitals,31.97,65.701
+Phygitals,32.89,66.569
+Phygitals,33.84,67.281
+Phygitals,34.81,67.932
+Phygitals,35.82,68.645
+Phygitals,36.85,69.234
+Phygitals,37.91,69.823
+Phygitals,39,70.893
+Phygitals,40.12,71.311
+Phygitals,41.28,71.714
+Phygitals,42.47,72.148
+Phygitals,43.69,72.489
+Phygitals,44.95,72.784
+Phygitals,46.25,73.698
+Phygitals,47.58,74.055
+Phygitals,48.95,74.38
+Phygitals,50.36,74.923
+Phygitals,51.81,75.124
+Phygitals,53.3,75.62
+Phygitals,54.84,75.821
+Phygitals,56.42,76.286
+Phygitals,58.04,76.674
+Phygitals,59.72,76.782
+Phygitals,61.44,77.092
+Phygitals,63.2,77.232
+Phygitals,65.03,77.604
+Phygitals,66.9,77.743
+Phygitals,68.83,78.038
+Phygitals,70.81,78.332
+Phygitals,72.85,78.596
+Phygitals,74.95,78.89
+Phygitals,77.11,79.324
+Phygitals,79.33,79.572
+Phygitals,81.61,79.743
+Phygitals,83.96,79.929
+Phygitals,86.38,80.177
+Phygitals,88.87,80.347
+Phygitals,91.43,80.642
+Phygitals,94.06,80.998
+Phygitals,96.77,81.231
+Phygitals,99.56,81.432
+Phygitals,102.43,81.773
+Phygitals,105.38,82.068
+Phygitals,108.42,82.316
+Phygitals,111.54,82.502
+Phygitals,114.75,82.812
+Phygitals,118.06,83.013
+Phygitals,121.46,83.215
+Phygitals,124.96,83.385
+Phygitals,128.56,83.617
+Phygitals,132.26,83.865
+Phygitals,136.07,84.206
+Phygitals,139.99,84.423
+Phygitals,144.02,84.656
+Phygitals,148.17,84.857
+Phygitals,152.44,84.997
+Phygitals,156.83,85.276
+Phygitals,161.35,85.477
+Phygitals,166,85.632
+Phygitals,170.78,85.88
+Phygitals,175.7,86.004
+Phygitals,180.76,86.221
+Phygitals,185.97,86.423
+Phygitals,191.33,86.671
+Phygitals,196.84,86.872
+Phygitals,202.51,86.95
+Phygitals,208.34,87.058
+Phygitals,214.34,87.275
+Phygitals,220.52,87.492
+Phygitals,226.87,87.632
+Phygitals,233.41,87.787
+Phygitals,240.13,87.88
+Phygitals,247.05,88.097
+Phygitals,254.16,88.283
+Phygitals,261.49,88.314
+Phygitals,269.02,88.422
+Phygitals,276.77,88.577
+Phygitals,284.74,88.748
+Phygitals,292.94,88.887
+Phygitals,301.38,88.98
+Phygitals,310.06,89.12
+Phygitals,319,89.259
+Phygitals,328.18,89.399
+Phygitals,337.64,89.523
+Phygitals,347.37,89.678
+Phygitals,357.37,89.802
+Phygitals,367.67,89.91
+Phygitals,378.26,90.003
+Phygitals,389.15,90.019
+Phygitals,400.36,90.081
+Phygitals,411.9,90.22
+Phygitals,423.76,90.329
+Phygitals,435.97,90.499
+Phygitals,448.53,90.701
+Phygitals,461.45,90.809
+Phygitals,474.74,90.964
+Phygitals,488.42,91.042
+Phygitals,502.49,91.166
+Phygitals,516.96,91.228
+Phygitals,531.86,91.336
+Phygitals,547.18,91.414
+Phygitals,562.94,91.46
+Phygitals,579.16,91.538
+Phygitals,595.84,91.662
+Phygitals,613.01,91.785
+Phygitals,630.66,91.878
+Phygitals,648.83,92.111
+Phygitals,667.52,92.157
+Phygitals,686.75,92.25
+Phygitals,706.54,92.343
+Phygitals,726.89,92.436
+Phygitals,747.83,92.56
+Phygitals,769.37,92.638
+Phygitals,791.53,92.731
+Phygitals,814.34,92.762
+Phygitals,837.79,92.824
+Phygitals,861.93,92.963
+Phygitals,886.76,92.979
+Phygitals,912.3,93.056
+Phygitals,938.58,93.118
+Phygitals,965.62,93.165
+Phygitals,993.44,93.211
+Phygitals,1022.06,93.227
+Phygitals,1051.5,93.242
+Phygitals,1081.79,93.32
+Phygitals,1112.95,93.459
+Phygitals,1145.01,93.537
+Phygitals,1178,93.568
+Phygitals,1211.93,93.599
+Phygitals,1246.84,93.63
+Phygitals,1282.76,93.769
+Phygitals,1319.71,93.816
+Phygitals,1357.73,93.862
+Phygitals,1396.84,93.955
+Phygitals,1437.08,94.017
+Phygitals,1478.48,94.064
+Phygitals,1521.07,94.172
+Phygitals,1564.89,94.188
+Phygitals,1609.97,94.281
+Phygitals,1656.35,94.312
+Phygitals,1704.06,94.482
+Phygitals,1753.15,94.606
+Phygitals,1803.65,94.668
+Phygitals,1855.61,94.715
+Phygitals,1909.07,94.808
+Phygitals,1964.06,94.854
+Phygitals,2020.64,94.916
+Phygitals,2078.85,94.947
+Phygitals,2138.73,95.04
+Phygitals,2200.34,95.087
+Phygitals,2263.73,95.102
+Phygitals,2328.94,95.149
+Phygitals,2396.03,95.195
+Phygitals,2465.05,95.226
+Phygitals,2536.06,95.242
+Phygitals,2609.12,95.304
+Phygitals,2684.28,95.335
+Phygitals,2761.61,95.381
+Phygitals,2841.16,95.49
+Phygitals,2923.01,95.505
+Phygitals,3007.21,95.552
+Phygitals,3093.84,95.583
+Phygitals,3182.96,95.614
+Phygitals,3274.65,95.645
+Phygitals,3368.99,95.691
+Phygitals,3466.04,95.738
+Phygitals,3565.88,95.738
+Phygitals,3668.61,95.753
+Phygitals,3774.29,95.769
+Phygitals,3883.01,95.815
+Phygitals,3994.87,95.846
+Phygitals,4109.95,95.862
+Phygitals,4228.35,95.924
+Phygitals,4350.15,95.939
+Phygitals,4475.47,95.955
+Phygitals,4604.39,95.986
+Phygitals,4737.03,96.032
+Phygitals,4873.49,96.11
+Phygitals,5013.88,96.156
+Phygitals,5158.32,96.249
+Phygitals,5306.91,96.265
+Phygitals,5459.79,96.311
+Phygitals,5617.07,96.358
+Phygitals,5778.88,96.404
+Phygitals,5945.35,96.42
+Phygitals,6116.62,96.435
+Phygitals,6292.82,96.451
+Phygitals,6474.1,96.451
+Phygitals,6660.6,96.466
+Phygitals,6852.47,96.497
+Phygitals,7049.87,96.497
+Phygitals,7252.95,96.544
+Phygitals,7461.89,96.59
+Phygitals,7676.84,96.668
+Phygitals,7897.99,96.683
+Phygitals,8125.51,96.699
+Phygitals,8359.58,96.714
+Phygitals,8600.39,96.714
+Phygitals,8848.15,96.761
+Phygitals,9103.04,96.823
+Phygitals,9365.27,96.869
+Phygitals,9635.05,96.931
+Phygitals,9912.61,97.009
+Phygitals,10198.16,97.055
+Phygitals,10491.94,97.086
+Phygitals,10794.18,97.117
+Phygitals,11105.13,97.133
+Phygitals,11425.03,97.164
+Phygitals,11754.16,97.179
+Phygitals,12092.76,97.195
+Phygitals,12441.11,97.21
+Phygitals,12799.51,97.272
+Phygitals,13168.22,97.334
+Phygitals,13547.56,97.35
+Phygitals,13937.82,97.35
+Phygitals,14339.33,97.365
+Phygitals,14752.4,97.396
+Phygitals,15177.37,97.443
+Phygitals,15614.59,97.458
+Phygitals,16064.4,97.458
+Phygitals,16527.17,97.474
+Phygitals,17003.26,97.474
+Phygitals,17493.08,97.505
+Phygitals,17997,97.52
+Phygitals,18515.44,97.52
+Phygitals,19048.82,97.52
+Phygitals,19597.55,97.52
+Phygitals,20162.1,97.551
+Phygitals,20742.91,97.582
+Phygitals,21340.45,97.613
+Phygitals,21955.21,97.613
+Phygitals,22587.67,97.613
+Phygitals,23238.35,97.675
+Phygitals,23907.78,97.706
+Phygitals,24596.49,97.753
+Phygitals,25305.04,97.768
+Phygitals,26034.01,97.768
+Phygitals,26783.97,97.784
+Phygitals,27555.53,97.83
+Phygitals,28349.33,97.846
+Phygitals,29165.99,97.861
+Phygitals,30006.17,97.892
+Phygitals,30870.56,97.892
+Phygitals,31759.85,97.954
+Phygitals,32674.75,97.985
+Phygitals,33616.02,98.047
+Phygitals,34584.39,98.078
+Phygitals,35580.67,98.078
+Phygitals,36605.64,98.109
+Phygitals,37660.14,98.202
+Phygitals,38745.01,98.233
+Phygitals,39861.14,98.264
+Phygitals,41009.42,98.295
+Phygitals,42190.78,98.326
+Phygitals,43406.17,98.326
+Phygitals,44656.57,98.357
+Phygitals,45942.99,98.357
+Phygitals,47266.47,98.357
+Phygitals,48628.08,98.404
+Phygitals,50028.91,98.404
+Phygitals,51470.09,98.435
+Phygitals,52952.79,98.45
+Phygitals,54478.2,98.512
+Phygitals,56047.56,98.543
+Phygitals,57662.12,98.59
+Phygitals,59323.19,98.605
+Phygitals,61032.12,98.636
+Phygitals,62790.27,98.652
+Phygitals,64599.07,98.683
+Phygitals,66459.97,98.76
+Phygitals,68374.49,98.76
+Phygitals,70344.15,98.776
+Phygitals,72370.55,98.791
+Phygitals,74455.33,98.822
+Phygitals,76600.17,98.853
+Phygitals,78806.79,98.869
+Phygitals,81076.98,98.884
+Phygitals,83412.56,98.9
+Phygitals,85815.43,98.931
+Phygitals,88287.52,98.977
+Phygitals,90830.81,98.993
+Phygitals,93447.38,99.039
+Phygitals,96139.32,99.055
+Phygitals,98908.8,99.117
+Phygitals,101758.07,99.148
+Phygitals,104689.42,99.179
+Phygitals,107705.2,99.179
+Phygitals,110807.87,99.179
+Phygitals,113999.91,99.21
+Phygitals,117283.91,99.241
+Phygitals,120662.51,99.241
+Phygitals,124138.43,99.287
+Phygitals,127714.49,99.349
+Phygitals,131393.56,99.38
+Phygitals,135178.62,99.38
+Phygitals,139072.71,99.396
+Phygitals,143078.98,99.411
+Phygitals,147200.65,99.427
+Phygitals,151441.06,99.442
+Phygitals,155803.63,99.442
+Phygitals,160291.86,99.442
+Phygitals,164909.39,99.458
+Phygitals,169659.94,99.473
+Phygitals,174547.33,99.489
+Phygitals,179575.52,99.504
+Phygitals,184748.55,99.535
+Phygitals,190070.61,99.551
+Phygitals,195545.97,99.551
+Phygitals,201179.07,99.551
+Phygitals,206974.43,99.613
+Phygitals,212936.75,99.644
+Phygitals,219070.82,99.659
+Phygitals,225381.59,99.675
+Phygitals,231874.16,99.675
+Phygitals,238553.76,99.675
+Phygitals,245425.78,99.675
+Phygitals,252495.76,99.706
+Phygitals,259769.41,99.737
+Phygitals,267252.59,99.752
+Phygitals,274951.34,99.768
+Phygitals,282871.86,99.768
+Phygitals,291020.55,99.768
+Phygitals,299403.98,99.768
+Phygitals,308028.92,99.768
+Phygitals,316902.31,99.783
+Phygitals,326031.31,99.783
+Phygitals,335423.3,99.799
+Phygitals,345085.84,99.799
+Phygitals,355026.73,99.799
+Phygitals,365253.99,99.83
+Phygitals,375775.86,99.845
+Phygitals,386600.84,99.861
+Phygitals,397737.66,99.861
+Phygitals,409195.29,99.876
+Phygitals,420982.98,99.876
+Phygitals,433110.24,99.907
+Phygitals,445586.85,99.923
+Phygitals,458422.87,99.923
+Phygitals,471628.66,99.923
+Phygitals,485214.87,99.923
+Phygitals,499192.46,99.923
+Phygitals,513572.7,99.923
+Phygitals,528367.19,99.954
+Phygitals,543587.87,99.954
+Phygitals,559247.01,99.954
+Phygitals,575357.24,99.954
+Phygitals,591931.56,99.954
+Phygitals,608983.34,99.954
+Phygitals,626526.33,99.954
+Phygitals,644574.67,99.954
+Phygitals,663142.94,99.954
+Phygitals,682246.1,99.954
+Phygitals,701899.57,99.954
+Phygitals,722119.2,99.954
+Phygitals,742921.29,99.954
+Phygitals,764322.63,99.954
+Phygitals,786340.48,99.954
+Phygitals,808992.59,99.954
+Phygitals,832297.25,99.954
+Phygitals,856273.24,99.954
+Phygitals,880939.91,99.954
+Phygitals,906317.15,99.954
+Phygitals,932425.44,99.954
+Phygitals,959285.82,99.954
+Phygitals,986919.98,99.954
+Phygitals,1015350.19,99.954
+Phygitals,1044599.39,99.954
+Phygitals,1074691.17,99.954
+Phygitals,1105649.8,99.954
+Phygitals,1137500.27,99.954
+Phygitals,1170268.24,99.954
+Phygitals,1203980.17,99.954
+Phygitals,1238663.23,99.954
+Phygitals,1274345.42,99.954
+Phygitals,1311055.49,99.954
+Phygitals,1348823.08,99.954
+Phygitals,1387678.63,99.954
+Phygitals,1427653.5,99.954
+Phygitals,1468779.93,99.954
+Phygitals,1511091.08,99.954
+Phygitals,1554621.09,99.954
+Phygitals,1599405.07,99.954
+Phygitals,1645479.14,99.954
+Phygitals,1692880.47,99.954
+Phygitals,1741647.29,99.954
+Phygitals,1791818.94,99.954
+Phygitals,1843435.88,99.954
+Phygitals,1896539.75,99.969
+Phygitals,1951173.38,99.969
+Phygitals,2007380.85,99.969
+Phygitals,2065207.48,99.969
+Phygitals,2124699.93,99.969
+Phygitals,2185906.17,99.969
+Phygitals,2248875.59,99.969
+Phygitals,2313658.96,99.969
+Phygitals,2380308.55,99.969
+Phygitals,2448878.12,99.969
+Phygitals,2519422.97,99.969
+Phygitals,2592000,99.969
+Courtyard,1,0
+Courtyard,1,0
+Courtyard,1.03,0
+Courtyard,1.06,0
+Courtyard,1.09,0
+Courtyard,1.12,0
+Courtyard,1.15,0
+Courtyard,1.19,0
+Courtyard,1.22,0
+Courtyard,1.26,0
+Courtyard,1.29,0
+Courtyard,1.33,0
+Courtyard,1.37,0
+Courtyard,1.41,0
+Courtyard,1.45,0
+Courtyard,1.49,0
+Courtyard,1.53,0
+Courtyard,1.58,0
+Courtyard,1.62,0
+Courtyard,1.67,0
+Courtyard,1.72,0
+Courtyard,1.76,0
+Courtyard,1.82,0
+Courtyard,1.87,0
+Courtyard,1.92,0
+Courtyard,1.98,0
+Courtyard,2.03,0
+Courtyard,2.09,0
+Courtyard,2.15,0
+Courtyard,2.21,0
+Courtyard,2.28,0
+Courtyard,2.34,0
+Courtyard,2.41,0
+Courtyard,2.48,0
+Courtyard,2.55,0
+Courtyard,2.63,0
+Courtyard,2.7,0
+Courtyard,2.78,0
+Courtyard,2.86,0
+Courtyard,2.94,0
+Courtyard,3.03,0
+Courtyard,3.11,0
+Courtyard,3.2,0
+Courtyard,3.3,0
+Courtyard,3.39,0
+Courtyard,3.49,0
+Courtyard,3.59,0
+Courtyard,3.69,0
+Courtyard,3.8,0
+Courtyard,3.91,0
+Courtyard,4.02,0
+Courtyard,4.14,0
+Courtyard,4.26,0
+Courtyard,4.38,0
+Courtyard,4.51,0
+Courtyard,4.63,0
+Courtyard,4.77,0
+Courtyard,4.91,0
+Courtyard,5.05,0
+Courtyard,5.19,0
+Courtyard,5.34,0
+Courtyard,5.5,0
+Courtyard,5.65,0
+Courtyard,5.82,0
+Courtyard,5.98,0
+Courtyard,6.16,0
+Courtyard,6.33,0
+Courtyard,6.52,0
+Courtyard,6.7,0
+Courtyard,6.9,0
+Courtyard,7.1,0
+Courtyard,7.3,0
+Courtyard,7.51,0.018
+Courtyard,7.73,0.018
+Courtyard,7.95,0.018
+Courtyard,8.18,0.018
+Courtyard,8.41,0.018
+Courtyard,8.66,0.018
+Courtyard,8.91,0.018
+Courtyard,9.16,0.049
+Courtyard,9.43,0.049
+Courtyard,9.7,0.049
+Courtyard,9.98,0.049
+Courtyard,10.27,0.049
+Courtyard,10.56,0.349
+Courtyard,10.87,0.349
+Courtyard,11.18,0.349
+Courtyard,11.5,0.349
+Courtyard,11.83,0.349
+Courtyard,12.17,2.395
+Courtyard,12.52,2.395
+Courtyard,12.88,2.395
+Courtyard,13.26,2.395
+Courtyard,13.64,5.688
+Courtyard,14.03,5.688
+Courtyard,14.43,5.688
+Courtyard,14.85,5.688
+Courtyard,15.28,9.277
+Courtyard,15.72,9.277
+Courtyard,16.17,9.277
+Courtyard,16.64,13.374
+Courtyard,17.12,13.374
+Courtyard,17.61,13.374
+Courtyard,18.12,17.559
+Courtyard,18.64,17.559
+Courtyard,19.17,17.559
+Courtyard,19.73,21.268
+Courtyard,20.3,21.268
+Courtyard,20.88,21.268
+Courtyard,21.48,24.949
+Courtyard,22.1,24.949
+Courtyard,22.74,27.893
+Courtyard,23.39,27.893
+Courtyard,24.07,30.628
+Courtyard,24.76,30.628
+Courtyard,25.47,30.628
+Courtyard,26.21,33.13
+Courtyard,26.96,33.13
+Courtyard,27.74,35.256
+Courtyard,28.54,37.077
+Courtyard,29.36,37.077
+Courtyard,30.2,38.792
+Courtyard,31.07,38.792
+Courtyard,31.97,40.153
+Courtyard,32.89,40.153
+Courtyard,33.84,41.382
+Courtyard,34.81,42.478
+Courtyard,35.82,42.478
+Courtyard,36.85,43.622
+Courtyard,37.91,44.661
+Courtyard,39,45.342
+Courtyard,40.12,45.457
+Courtyard,41.28,46.239
+Courtyard,42.47,47.034
+Courtyard,43.69,47.759
+Courtyard,44.95,47.759
+Courtyard,46.25,48.497
+Courtyard,47.58,49.107
+Courtyard,48.95,49.735
+Courtyard,50.36,50.323
+Courtyard,51.81,50.871
+Courtyard,53.3,51.463
+Courtyard,54.84,52.228
+Courtyard,56.42,52.855
+Courtyard,58.04,53.483
+Courtyard,59.72,54.013
+Courtyard,61.44,54.464
+Courtyard,63.2,55.357
+Courtyard,65.03,55.807
+Courtyard,66.9,56.188
+Courtyard,68.83,56.59
+Courtyard,70.81,57.363
+Courtyard,72.85,57.779
+Courtyard,74.95,58.221
+Courtyard,77.11,58.866
+Courtyard,79.33,59.286
+Courtyard,81.61,59.971
+Courtyard,83.96,60.333
+Courtyard,86.38,60.925
+Courtyard,88.87,61.553
+Courtyard,91.43,61.915
+Courtyard,94.06,62.494
+Courtyard,96.77,63.038
+Courtyard,99.56,63.56
+Courtyard,102.43,64.059
+Courtyard,105.38,64.514
+Courtyard,108.42,64.961
+Courtyard,111.54,65.469
+Courtyard,114.75,65.796
+Courtyard,118.06,66.26
+Courtyard,121.46,66.658
+Courtyard,124.96,67.117
+Courtyard,128.56,67.475
+Courtyard,132.26,67.948
+Courtyard,136.07,68.191
+Courtyard,139.99,68.642
+Courtyard,144.02,69.053
+Courtyard,148.17,69.279
+Courtyard,152.44,69.681
+Courtyard,156.83,70.017
+Courtyard,161.35,70.353
+Courtyard,166,70.671
+Courtyard,170.78,71.024
+Courtyard,175.7,71.405
+Courtyard,180.76,71.74
+Courtyard,185.97,72.001
+Courtyard,191.33,72.275
+Courtyard,196.84,72.589
+Courtyard,202.51,72.881
+Courtyard,208.34,73.159
+Courtyard,214.34,73.433
+Courtyard,220.52,73.734
+Courtyard,226.87,73.981
+Courtyard,233.41,74.233
+Courtyard,240.13,74.534
+Courtyard,247.05,74.724
+Courtyard,254.16,74.985
+Courtyard,261.49,75.228
+Courtyard,269.02,75.409
+Courtyard,276.77,75.661
+Courtyard,284.74,75.855
+Courtyard,292.94,76.094
+Courtyard,301.38,76.337
+Courtyard,310.06,76.558
+Courtyard,319,76.757
+Courtyard,328.18,76.912
+Courtyard,337.64,77.146
+Courtyard,347.37,77.296
+Courtyard,357.37,77.504
+Courtyard,367.67,77.658
+Courtyard,378.26,77.822
+Courtyard,389.15,77.937
+Courtyard,400.36,78.105
+Courtyard,411.9,78.273
+Courtyard,423.76,78.392
+Courtyard,435.97,78.573
+Courtyard,448.53,78.755
+Courtyard,461.45,78.945
+Courtyard,474.74,79.135
+Courtyard,488.42,79.289
+Courtyard,502.49,79.413
+Courtyard,516.96,79.55
+Courtyard,531.86,79.705
+Courtyard,547.18,79.851
+Courtyard,562.94,80.041
+Courtyard,579.16,80.191
+Courtyard,595.84,80.332
+Courtyard,613.01,80.465
+Courtyard,630.66,80.624
+Courtyard,648.83,80.726
+Courtyard,667.52,80.938
+Courtyard,686.75,81.075
+Courtyard,706.54,81.274
+Courtyard,726.89,81.437
+Courtyard,747.83,81.565
+Courtyard,769.37,81.676
+Courtyard,791.53,81.817
+Courtyard,814.34,81.932
+Courtyard,837.79,82.105
+Courtyard,861.93,82.206
+Courtyard,886.76,82.304
+Courtyard,912.3,82.432
+Courtyard,938.58,82.525
+Courtyard,965.62,82.617
+Courtyard,993.44,82.741
+Courtyard,1022.06,82.856
+Courtyard,1051.5,83.028
+Courtyard,1081.79,83.152
+Courtyard,1112.95,83.285
+Courtyard,1145.01,83.4
+Courtyard,1178,83.523
+Courtyard,1211.93,83.607
+Courtyard,1246.84,83.744
+Courtyard,1282.76,83.819
+Courtyard,1319.71,83.903
+Courtyard,1357.73,84.014
+Courtyard,1396.84,84.098
+Courtyard,1437.08,84.2
+Courtyard,1478.48,84.297
+Courtyard,1521.07,84.416
+Courtyard,1564.89,84.522
+Courtyard,1609.97,84.624
+Courtyard,1656.35,84.712
+Courtyard,1704.06,84.792
+Courtyard,1753.15,84.911
+Courtyard,1803.65,84.955
+Courtyard,1855.61,85.053
+Courtyard,1909.07,85.145
+Courtyard,1964.06,85.238
+Courtyard,2020.64,85.305
+Courtyard,2078.85,85.393
+Courtyard,2138.73,85.446
+Courtyard,2200.34,85.512
+Courtyard,2263.73,85.592
+Courtyard,2328.94,85.693
+Courtyard,2396.03,85.773
+Courtyard,2465.05,85.835
+Courtyard,2536.06,85.919
+Courtyard,2609.12,85.998
+Courtyard,2684.28,86.06
+Courtyard,2761.61,86.113
+Courtyard,2841.16,86.184
+Courtyard,2923.01,86.228
+Courtyard,3007.21,86.303
+Courtyard,3093.84,86.418
+Courtyard,3182.96,86.454
+Courtyard,3274.65,86.516
+Courtyard,3368.99,86.56
+Courtyard,3466.04,86.622
+Courtyard,3565.88,86.745
+Courtyard,3668.61,86.816
+Courtyard,3774.29,86.891
+Courtyard,3883.01,86.975
+Courtyard,3994.87,87.037
+Courtyard,4109.95,87.125
+Courtyard,4228.35,87.223
+Courtyard,4350.15,87.28
+Courtyard,4475.47,87.351
+Courtyard,4604.39,87.377
+Courtyard,4737.03,87.466
+Courtyard,4873.49,87.554
+Courtyard,5013.88,87.612
+Courtyard,5158.32,87.678
+Courtyard,5306.91,87.775
+Courtyard,5459.79,87.806
+Courtyard,5617.07,87.85
+Courtyard,5778.88,87.886
+Courtyard,5945.35,87.965
+Courtyard,6116.62,87.992
+Courtyard,6292.82,88.067
+Courtyard,6474.1,88.115
+Courtyard,6660.6,88.177
+Courtyard,6852.47,88.239
+Courtyard,7049.87,88.301
+Courtyard,7252.95,88.354
+Courtyard,7461.89,88.398
+Courtyard,7676.84,88.451
+Courtyard,7897.99,88.535
+Courtyard,8125.51,88.584
+Courtyard,8359.58,88.668
+Courtyard,8600.39,88.752
+Courtyard,8848.15,88.809
+Courtyard,9103.04,88.845
+Courtyard,9365.27,88.884
+Courtyard,9635.05,88.938
+Courtyard,9912.61,88.982
+Courtyard,10198.16,89.008
+Courtyard,10491.94,89.052
+Courtyard,10794.18,89.136
+Courtyard,11105.13,89.216
+Courtyard,11425.03,89.278
+Courtyard,11754.16,89.335
+Courtyard,12092.76,89.406
+Courtyard,12441.11,89.459
+Courtyard,12799.51,89.503
+Courtyard,13168.22,89.561
+Courtyard,13547.56,89.623
+Courtyard,13937.82,89.702
+Courtyard,14339.33,89.76
+Courtyard,14752.4,89.839
+Courtyard,15177.37,89.874
+Courtyard,15614.59,89.963
+Courtyard,16064.4,90.02
+Courtyard,16527.17,90.109
+Courtyard,17003.26,90.166
+Courtyard,17493.08,90.215
+Courtyard,17997,90.29
+Courtyard,18515.44,90.321
+Courtyard,19048.82,90.378
+Courtyard,19597.55,90.423
+Courtyard,20162.1,90.449
+Courtyard,20742.91,90.537
+Courtyard,21340.45,90.613
+Courtyard,21955.21,90.648
+Courtyard,22587.67,90.71
+Courtyard,23238.35,90.776
+Courtyard,23907.78,90.856
+Courtyard,24596.49,90.926
+Courtyard,25305.04,90.993
+Courtyard,26034.01,91.068
+Courtyard,26783.97,91.116
+Courtyard,27555.53,91.174
+Courtyard,28349.33,91.236
+Courtyard,29165.99,91.293
+Courtyard,30006.17,91.342
+Courtyard,30870.56,91.39
+Courtyard,31759.85,91.474
+Courtyard,32674.75,91.519
+Courtyard,33616.02,91.603
+Courtyard,34584.39,91.656
+Courtyard,35580.67,91.7
+Courtyard,36605.64,91.779
+Courtyard,37660.14,91.828
+Courtyard,38745.01,91.868
+Courtyard,39861.14,91.961
+Courtyard,41009.42,91.996
+Courtyard,42190.78,92.075
+Courtyard,43406.17,92.146
+Courtyard,44656.57,92.199
+Courtyard,45942.99,92.261
+Courtyard,47266.47,92.296
+Courtyard,48628.08,92.38
+Courtyard,50028.91,92.456
+Courtyard,51470.09,92.5
+Courtyard,52952.79,92.562
+Courtyard,54478.2,92.628
+Courtyard,56047.56,92.716
+Courtyard,57662.12,92.809
+Courtyard,59323.19,92.871
+Courtyard,61032.12,92.937
+Courtyard,62790.27,93.021
+Courtyard,64599.07,93.11
+Courtyard,66459.97,93.158
+Courtyard,68374.49,93.242
+Courtyard,70344.15,93.317
+Courtyard,72370.55,93.384
+Courtyard,74455.33,93.477
+Courtyard,76600.17,93.53
+Courtyard,78806.79,93.649
+Courtyard,81076.98,93.755
+Courtyard,83412.56,93.888
+Courtyard,85815.43,93.967
+Courtyard,88287.52,94.073
+Courtyard,90830.81,94.206
+Courtyard,93447.38,94.263
+Courtyard,96139.32,94.352
+Courtyard,98908.8,94.418
+Courtyard,101758.07,94.475
+Courtyard,104689.42,94.52
+Courtyard,107705.2,94.595
+Courtyard,110807.87,94.634
+Courtyard,113999.91,94.696
+Courtyard,117283.91,94.736
+Courtyard,120662.51,94.767
+Courtyard,124138.43,94.82
+Courtyard,127714.49,94.9
+Courtyard,131393.56,94.935
+Courtyard,135178.62,94.975
+Courtyard,139072.71,95.023
+Courtyard,143078.98,95.112
+Courtyard,147200.65,95.174
+Courtyard,151441.06,95.213
+Courtyard,155803.63,95.28
+Courtyard,160291.86,95.355
+Courtyard,164909.39,95.412
+Courtyard,169659.94,95.505
+Courtyard,174547.33,95.571
+Courtyard,179575.52,95.669
+Courtyard,184748.55,95.748
+Courtyard,190070.61,95.792
+Courtyard,195545.97,95.85
+Courtyard,201179.07,95.894
+Courtyard,206974.43,95.921
+Courtyard,212936.75,95.96
+Courtyard,219070.82,96
+Courtyard,225381.59,96.062
+Courtyard,231874.16,96.12
+Courtyard,238553.76,96.168
+Courtyard,245425.78,96.239
+Courtyard,252495.76,96.332
+Courtyard,259769.41,96.389
+Courtyard,267252.59,96.451
+Courtyard,274951.34,96.508
+Courtyard,282871.86,96.561
+Courtyard,291020.55,96.615
+Courtyard,299403.98,96.659
+Courtyard,308028.92,96.676
+Courtyard,316902.31,96.721
+Courtyard,326031.31,96.796
+Courtyard,335423.3,96.853
+Courtyard,345085.84,96.959
+Courtyard,355026.73,97.074
+Courtyard,365253.99,97.158
+Courtyard,375775.86,97.229
+Courtyard,386600.84,97.277
+Courtyard,397737.66,97.308
+Courtyard,409195.29,97.344
+Courtyard,420982.98,97.437
+Courtyard,433110.24,97.529
+Courtyard,445586.85,97.622
+Courtyard,458422.87,97.671
+Courtyard,471628.66,97.693
+Courtyard,485214.87,97.755
+Courtyard,499192.46,97.817
+Courtyard,513572.7,97.918
+Courtyard,528367.19,98.02
+Courtyard,543587.87,98.117
+Courtyard,559247.01,98.223
+Courtyard,575357.24,98.321
+Courtyard,591931.56,98.422
+Courtyard,608983.34,98.586
+Courtyard,626526.33,98.617
+Courtyard,644574.67,98.643
+Courtyard,663142.94,98.67
+Courtyard,682246.1,98.701
+Courtyard,701899.57,98.723
+Courtyard,722119.2,98.762
+Courtyard,742921.29,98.785
+Courtyard,764322.63,98.802
+Courtyard,786340.48,98.829
+Courtyard,808992.59,98.855
+Courtyard,832297.25,98.864
+Courtyard,856273.24,98.895
+Courtyard,880939.91,98.926
+Courtyard,906317.15,98.948
+Courtyard,932425.44,98.961
+Courtyard,959285.82,98.988
+Courtyard,986919.98,99.006
+Courtyard,1015350.19,99.01
+Courtyard,1044599.39,99.041
+Courtyard,1074691.17,99.067
+Courtyard,1105649.8,99.085
+Courtyard,1137500.27,99.107
+Courtyard,1170268.24,99.125
+Courtyard,1203980.17,99.16
+Courtyard,1238663.23,99.191
+Courtyard,1274345.42,99.209
+Courtyard,1311055.49,99.213
+Courtyard,1348823.08,99.249
+Courtyard,1387678.63,99.262
+Courtyard,1427653.5,99.288
+Courtyard,1468779.93,99.306
+Courtyard,1511091.08,99.333
+Courtyard,1554621.09,99.346
+Courtyard,1599405.07,99.364
+Courtyard,1645479.14,99.395
+Courtyard,1692880.47,99.395
+Courtyard,1741647.29,99.43
+Courtyard,1791818.94,99.448
+Courtyard,1843435.88,99.47
+Courtyard,1896539.75,99.478
+Courtyard,1951173.38,99.496
+Courtyard,2007380.85,99.514
+Courtyard,2065207.48,99.536
+Courtyard,2124699.93,99.549
+Courtyard,2185906.17,99.562
+Courtyard,2248875.59,99.58
+Courtyard,2313658.96,99.598
+Courtyard,2380308.55,99.602
+Courtyard,2448878.12,99.615
+Courtyard,2519422.97,99.624
+Courtyard,2592000,99.646

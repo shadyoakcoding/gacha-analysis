@@ -1,0 +1,10 @@
+site,reference,pulls,above_pct,below_pct,typical_signed_miss_pct,average_miss_pct
+Collector Crypt,site price,33645,81.067,17.6133,9.1405,16.4461
+Collector Crypt,CardLadder,33645,52.9559,44.6426,0.7463,8.0866
+Collector Crypt,median of last 5 sales,33645,56.3888,40.639,1.1155,6.6932
+Phygitals,site price,2113,56.9806,43.0194,2.1388,12.232
+Phygitals,CardLadder,2113,49.3138,49.4558,0,11.1689
+Phygitals,median of last 5 sales,2113,48.8405,49.1245,0,9.345
+Courtyard,site price,6520,67.9755,31.8865,3.6811,9.2449
+Courtyard,CardLadder,6520,52.1472,45.7055,0.6526,9.9217
+Courtyard,median of last 5 sales,6520,55.6288,42.0552,1.2243,7.7022
